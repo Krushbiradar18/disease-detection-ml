@@ -4,7 +4,6 @@
 
 This project is an intelligent disease detection system that predicts a possible illness based on a user's selected symptoms. It uses machine learning (Naive Bayes + SMOTE + feature selection) and is deployed using **Streamlit**.
 
-![Streamlit App Screenshot](https://github.com/Krushbiradar18/disease-detection-ml/assets/your-screenshot.png) <!-- Replace with real link -->
 
 ---
 
@@ -14,31 +13,7 @@ This project is an intelligent disease detection system that predicts a possible
 
 ---
 
-## 📂 Project Structure
 
-disease-detection-ml/
-│
-├── app.py                     # Streamlit frontend
-├── main.py                    # Model training pipeline
-├── evaluation.py              # Model evaluation script
-│
-├── data/
-│   └── raw/                   # Raw dataset (CSV)
-│   └── X_test.npy             # Saved for evaluation
-│
-├── models/                    # Saved models, preprocessor
-│
-├── src/
-│   ├── data_preprocessing.py  # Preprocessing logic
-│   ├── model_training.py      # Model training and ensemble
-│   ├── prediction.py          # Predictor logic
-│   └── evaluation.py          # Confusion matrix and insights
-│
-├── .gitignore
-├── README.md
-└── requirements.txt
-
----
 
 ## ✅ Features
 
