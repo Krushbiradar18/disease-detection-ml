@@ -9,7 +9,7 @@ This project is an intelligent disease detection system that predicts a possible
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://your-deployed-app-url.streamlit.app) <!-- Replace this with actual Streamlit app URL -->
+👉 [Click here to use the app](https://krushbiradar18-disease-detection-ml-app-ufwhkh.streamlit.app/)<!-- Replace this with actual Streamlit app URL -->
 
 ---
 
