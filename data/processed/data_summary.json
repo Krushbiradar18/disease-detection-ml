@@ -1,0 +1,25 @@
+{
+  "total_samples": 1200,
+  "num_diseases": 6,
+  "num_symptoms": 10,
+  "disease_distribution": {
+    "flu": 200,
+    "cold": 200,
+    "food_poisoning": 200,
+    "migraine": 200,
+    "stress": 200,
+    "allergy": 200
+  },
+  "symptom_frequency": {
+    "fever": 342,
+    "cough": 526,
+    "headache": 662,
+    "fatigue": 780,
+    "nausea": 498,
+    "runny_nose": 503,
+    "sore_throat": 447,
+    "muscle_ache": 479,
+    "chills": 407,
+    "diarrhea": 292
+  }
+}
